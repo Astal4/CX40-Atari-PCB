@@ -1,0 +1,11 @@
+You've landed on a CX40 replacement board project! Well there's not much here right now but the eventual goals are to have Joy2B+ supporting PCBs which can fit inside of a CX40/CX40 clone housing, with upgraded, nicer feeling tactile switches instead of the CX40's original metal domes.
+
+Current goals...
+
+1. CX40 Drop in replacement board
+2. Joy2B+ Support
+
+Current phase is pre-alpha, there is not a working prototype yet. I will be uploading prototypes here and marking them as so, and will label a release board. Potential upgrades in the future could include debouncing.
+
+The project is licensed under the MIT license.
+
